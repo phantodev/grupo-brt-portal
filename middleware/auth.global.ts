@@ -9,7 +9,7 @@ function validateToken() {
 export default defineNuxtRouteMiddleware((to) => {
   if (process.client) {
     const isTokenValid = validateToken();
-    if ((!isTokenValid && to.path !== '/login') || (!isTokenValid && to.path !== '/signup')) {
+    if (!isTokenValid && to.path !== '/login' && to.path !== '/signup') {
       return window.location.replace('/login');
     }
   }
