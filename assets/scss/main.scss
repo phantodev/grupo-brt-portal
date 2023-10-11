@@ -1,0 +1,31 @@
+.dp__theme_light {
+  --dp-background-color: #eff6ff;
+  --dp-text-color: rgb(75 85 99);
+  --dp-hover-color: #ffd753;
+  --dp-hover-text-color: #212121;
+  --dp-hover-icon-color: #959595;
+  --dp-primary-color: #114e8c;
+  --dp-primary-text-color: #f8f5f5;
+  --dp-secondary-color: #b0b0b0;
+  --dp-border-color: #eff6ff;
+  --dp-menu-border-color: #ddd;
+  --dp-border-color-hover: #eff6ff;
+  --dp-disabled-color: #f6f6f6;
+  --dp-scroll-bar-background: #f3f3f3;
+  --dp-scroll-bar-color: #959595;
+  --dp-success-color: #76d275;
+  --dp-success-color-disabled: #a3d9b1;
+  --dp-icon-color: #959595;
+  --dp-danger-color: #ff6f60;
+  --dp-highlight-color: #fcef00;
+  --dp-input-padding: 0; /*Padding in the input*/
+  --dp-font-size: 0.8rem; /*Default font-size*/
+  --dp-action-buttons-padding: 0px 10px 10px 10px;
+  --dp-action-buttons-height: 50px;
+  --dp-row-maring: 0 0; /*Adjust the spacing between rows in the calendar*/
+  --dp-common-padding: 2px 10px 10px 10px; /*Common padding used*/
+}
+
+:root {
+  --slider-tooltip-font-size: 0.675rem;
+}

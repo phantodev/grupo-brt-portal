@@ -1,0 +1,7559 @@
+{
+  "data": [
+    {
+      "id": 188,
+      "name": "Aarhus",
+      "state": "Aarhus",
+      "state_id": 70,
+      "country": "Dinamarca",
+      "country_id": 58,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 1,
+          "name": "Aarhus Lufthavn",
+          "iata": "AAR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Aberdeen",
+      "state": null,
+      "state_id": null,
+      "country": "Reino Unido",
+      "country_id": 225,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 6,
+          "name": "Aberdeen Airport",
+          "iata": "ABZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "name": "Aberdeen",
+      "state": "Dakota do Sul",
+      "state_id": 141,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 4,
+          "name": "Aberdeen Regional Airport",
+          "iata": "ABR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Abu Dhabi",
+      "state": "Abu Zaby",
+      "state_id": 189,
+      "country": "Emirados Árabes",
+      "country_id": 224,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 35,
+          "name": "Aeroporto Internacional de Abu Dhabi",
+          "iata": "AUH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Acapulco",
+      "state": "Guerrero",
+      "state_id": 114,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 7,
+          "name": "Alvarez International",
+          "iata": "ACA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Açores",
+      "state": null,
+      "state_id": null,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 216,
+      "name": "Acra",
+      "state": "Accra",
+      "state_id": 203,
+      "country": "Gana",
+      "country_id": 81,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 8,
+          "name": "Kotoka International Airport",
+          "iata": "ACC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Adana",
+      "state": "Adana",
+      "state_id": 131,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 9,
+          "name": "Adana Şakirpaşa Airport",
+          "iata": "ADA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Adelaide",
+      "state": "South Australia",
+      "state_id": 196,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 12,
+          "name": "Aeroporto Internacional de Adelaide",
+          "iata": "ADL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Adis Abada",
+      "state": "Adis Abeba",
+      "state_id": 204,
+      "country": "Etiópia",
+      "country_id": 68,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 11,
+          "name": "Bole International Airport",
+          "iata": "ADD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "state_id": 184,
+      "country": "Índia",
+      "country_id": 99,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 16,
+          "name": "Agra Airport",
+          "iata": "AGR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Águas de Lindóia",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 302,
+          "name": "Aeroport Viracopos/Campinas Internacional",
+          "iata": "VCP",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Albany",
+      "state": "Geórgia",
+      "state_id": 144,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 5,
+          "name": "Dougherty County",
+          "iata": "ABY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "name": "Albuquerque",
+      "state": "Novo México",
+      "state_id": 159,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 3,
+          "name": "Albuquerque Intl",
+          "iata": "ABQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Alexandria",
+      "state": "Província de Alexandria",
+      "state_id": 188,
+      "country": "Bielorrússia",
+      "country_id": 20,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 21,
+          "name": "El Nouzha Airport",
+          "iata": "ALY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Alghero",
+      "state": "Sassari",
+      "state_id": 102,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 18,
+          "name": "Alghero-Fertilia Airport",
+          "iata": "AHO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Altamira",
+      "state": "Pará",
+      "state_id": 25,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 33,
+          "name": "Aeroporto de Altamira",
+          "iata": "ATM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Amalfi",
+      "state": "Salerno",
+      "state_id": 101,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 277,
+      "name": "Amsterdam",
+      "state": null,
+      "state_id": null,
+      "country": "Holanda",
+      "country_id": 150,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 22,
+          "name": "Amsterdam Airport Schiphol",
+          "iata": "AMS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Anchorage",
+      "state": "Alasca",
+      "state_id": 135,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 23,
+          "name": "Aeroporto Internacional Ted Stevens",
+          "iata": "ANC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Andros Town",
+      "state": "Andros",
+      "state_id": 191,
+      "country": "Bahamas",
+      "country_id": 16,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 28,
+          "name": "Andros Town International Airport",
+          "iata": "ASD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Angra dos Reis",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 327,
+          "name": "Rio de Janeiro Area",
+          "iata": "RIO",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Ankara",
+      "state": null,
+      "state_id": null,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 122,
+          "name": "Esenboğa International Airport",
+          "iata": "ESB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "name": "Antália",
+      "state": "Província de Antália",
+      "state_id": 134,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 37,
+          "name": "Aeroporto de Antália",
+          "iata": "AYT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Antofagasta",
+      "state": "Província de Antofagasta",
+      "state_id": 49,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 24,
+          "name": "Aeropuerto Andrés Sabella",
+          "iata": "ANF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Antuérpia",
+      "state": "Antuérpia",
+      "state_id": 9,
+      "country": "Bélgica",
+      "country_id": 21,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 25,
+          "name": "Aeroporto Internacional de Antuérpia",
+          "iata": "ANR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Aparecida",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 52,
+      "name": "Aquiraz",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 133,
+          "name": "Aeroporto Internacional de Fortaleza / Pinto Martins",
+          "iata": "FOR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Aracaju",
+      "state": "Sergipe",
+      "state_id": 37,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 19,
+          "name": "Aeroporto Internacional de Aracaju",
+          "iata": "AJU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Aracati",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 77,
+      "name": "Araxá",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 2,
+          "name": "Aeroporto Romeu Zema",
+          "iata": "AAX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Arequipa",
+      "state": "Arequipa",
+      "state_id": 170,
+      "country": "Peru",
+      "country_id": 168,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 26,
+          "name": "Aeroporto Internacional Rodríguez Ballón",
+          "iata": "AQP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Arraial d'Ajuda",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 70,
+          "name": "Aeroporto Internacional de Porto Seguro",
+          "iata": "BPS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Arraial do Cabo",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Aruba",
+      "state": null,
+      "state_id": null,
+      "country": "Aruba",
+      "country_id": 12,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 34,
+          "name": "Aeroporto Internacional Rainha Beatriz",
+          "iata": "AUA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "name": "Aspen",
+      "state": "Colorado",
+      "state_id": 140,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 29,
+          "name": "Aeroporto do Condado de Aspen/Pitkin",
+          "iata": "ASE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Assunção",
+      "state": "Asunción",
+      "state_id": 128,
+      "country": "Paraguai",
+      "country_id": 167,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 30,
+          "name": "Aeropuerto Internacional Silvio Pettirossi",
+          "iata": "ASU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Atenas",
+      "state": "Ática",
+      "state_id": 89,
+      "country": "Grécia",
+      "country_id": 83,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 31,
+          "name": "Aeroporto Internacional de Atenas",
+          "iata": "ATH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Atibaia",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 170,
+          "name": "Aeroporto Estadual De Bauru Arealva",
+          "iata": "JTC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Atlanta",
+      "state": "Geórgia",
+      "state_id": 144,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 32,
+          "name": "Aeroporto Internacional de Atlanta Hartsfield-Jackson",
+          "iata": "ATL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Auckland",
+      "state": "Auckland",
+      "state_id": 185,
+      "country": "Nova Zelândia",
+      "country_id": 153,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 20,
+          "name": "Aeroporto de Auckland",
+          "iata": "AKL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Austin",
+      "state": "Texas",
+      "state_id": 164,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 36,
+          "name": "Aeroporto Internacional de Austin-Bergstrom",
+          "iata": "AUS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Bahia Blanca",
+      "state": "Buenos Aires",
+      "state_id": 1,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 53,
+          "name": "Comandante Espora Airport",
+          "iata": "BHI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baku",
+      "state": "Baku",
+      "state_id": 192,
+      "country": "Azerbaijão",
+      "country_id": 15,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 38,
+          "name": "Baku Airport",
+          "iata": "BAK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Balneário Camboriú",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 224,
+          "name": "Aeroporto Internacional de Navegantes / Ministro Victor Konder",
+          "iata": "NVT",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 130,
+          "name": "Aeroporto Internacional de Florianópolis / Hercílio Luz",
+          "iata": "FLN",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 167,
+          "name": "Aeroporto de Joinville - Lauro Carneiro de Loyola",
+          "iata": "JOI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Baltimore",
+      "state": "Maryland",
+      "state_id": 151,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 222,
+      "name": "Bangalore",
+      "state": "Karnataka",
+      "state_id": 181,
+      "country": "Índia",
+      "country_id": 99,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 63,
+          "name": "Aeroporto Internacional Kempegowda",
+          "iata": "BLR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "name": "Bangkok",
+      "state": null,
+      "state_id": null,
+      "country": "Tailândia",
+      "country_id": 211,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 60,
+          "name": "Aeroporto Internacional de Suvarnabhumi",
+          "iata": "BKK",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 113,
+          "name": "Don Mueang International Airport",
+          "iata": "DMK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Bangor",
+      "state": "Maine",
+      "state_id": 150,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 50,
+          "name": "Bangor International Airport",
+          "iata": "BGR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Barcelona",
+      "state": "Catalunha",
+      "state_id": 76,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 41,
+          "name": "Aeroporto de Barcelona",
+          "iata": "BCN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Bari",
+      "state": "Puglia",
+      "state_id": 99,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 73,
+          "name": "Aeroporto de Bari",
+          "iata": "BRI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bariloche",
+      "state": "Província de Río Negro",
+      "state_id": 5,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 71,
+          "name": "Aeroporto Internacional Teniente Luis Candelaria",
+          "iata": "BRC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Barra de Santo Antonio",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 202,
+          "name": "Aeroporto de Maceió / Zumbi dos Palmares",
+          "iata": "MCZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Barra de São Miguel",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 202,
+          "name": "Aeroporto de Maceió / Zumbi dos Palmares",
+          "iata": "MCZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Barra dos Coqueiros",
+      "state": "Sergipe",
+      "state_id": 37,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 178,
+      "name": "Barranquilla",
+      "state": "Atlántico",
+      "state_id": 57,
+      "country": "Colômbia",
+      "country_id": 47,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 39,
+          "name": "Aeroporto Internacional Ernesto Cortissoz",
+          "iata": "BAQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Barreirinhas",
+      "state": "Maranhão",
+      "state_id": 21,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 276,
+          "name": "Aeroporto Internacional Marechal Cunha Machado",
+          "iata": "SLZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Bastia",
+      "state": "Alta Córsega",
+      "state_id": 84,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 56,
+          "name": "Aeroporto de Bastia-Poretta",
+          "iata": "BIA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Bauru",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 54,
+      "name": "Beberibe",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 133,
+          "name": "Aeroporto Internacional de Fortaleza / Pinto Martins",
+          "iata": "FOR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Beirute",
+      "state": "Beyrouth",
+      "state_id": 199,
+      "country": "Líbano",
+      "country_id": 118,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 46,
+          "name": "Aeroporto Internacional de Beirute",
+          "iata": "BEY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Belém",
+      "state": "Pará",
+      "state_id": 25,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 43,
+          "name": "Aeroporto Internacional de Belém/Val-de-Cans",
+          "iata": "BEL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Belfast",
+      "state": null,
+      "state_id": null,
+      "country": "Reino Unido",
+      "country_id": 225,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 47,
+          "name": "Aeroporto Internacional de Belfast",
+          "iata": "BFS",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 52,
+          "name": "George Best Belfast City Airport",
+          "iata": "BHD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Belgrado",
+      "state": "Belgrado",
+      "state_id": 174,
+      "country": "Sérvia",
+      "country_id": 189,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 42,
+          "name": "Aeroporto Internacional de Belgrado",
+          "iata": "BEG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 55,
+          "name": "Aeroporto de Belo Horizonte/Pampulha",
+          "iata": "BHZ",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 95,
+          "name": "Aeroporto Internacional de Confins - Tancredo Neves",
+          "iata": "CNF",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 236,
+          "name": "Aeroporto de Belo Horizonte/Pampulha",
+          "iata": "PLU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Bento Gonçalves",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 243,
+          "name": "Aeroporto Internacional Porto Alegre Salgado Filho",
+          "iata": "POA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Bérgamo",
+      "state": "Lombardia",
+      "state_id": 97,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 51,
+          "name": "Aeroporto de Bergamo",
+          "iata": "BGY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Bergen",
+      "state": "Hordaland Fylke",
+      "state_id": 120,
+      "country": "Noruega",
+      "country_id": 160,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 49,
+          "name": "Aeroporto de Bergen",
+          "iata": "BGO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Berlin",
+      "state": "Berlim",
+      "state_id": 64,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 45,
+          "name": "Aeroporto de Berlim-Brandemburgo",
+          "iata": "BER",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 285,
+          "name": "Schoenefeld Airport Berlin",
+          "iata": "SXF",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 295,
+          "name": "Aeroporto Berlin-Tegel ",
+          "iata": "TXL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Biak",
+      "state": "Papua",
+      "state_id": 201,
+      "country": "Indonésia",
+      "country_id": 100,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 57,
+          "name": "Aeroporto de Biak",
+          "iata": "BIK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Bilbao",
+      "state": "País Basco",
+      "state_id": 81,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 58,
+          "name": "Aeroporto de Bilbao",
+          "iata": "BIO",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 322,
+          "name": "Zurich Airport",
+          "iata": "ZRH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Billund",
+      "state": "Billund",
+      "state_id": 71,
+      "country": "Dinamarca",
+      "country_id": 58,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 61,
+          "name": "Aeroporto de Billund",
+          "iata": "BLL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Birmingham",
+      "state": "Midlands Ocidentais",
+      "state_id": 214,
+      "country": "Reino Unido",
+      "country_id": 225,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 54,
+          "name": "Aeroporto de Birmingham",
+          "iata": "BHX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "name": "Blantyre",
+      "state": "Região Sul Blantyre",
+      "state_id": 202,
+      "country": "Malawi",
+      "country_id": 128,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 64,
+          "name": "Chileka International Airport",
+          "iata": "BLZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Blumenau",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 126,
+      "name": "Boa Vista",
+      "state": "Roraima",
+      "state_id": 34,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 79,
+          "name": "Aeroporto Internacional de Boa Vista - Atlas Brasil Cantanhede",
+          "iata": "BVB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Bogotá",
+      "state": "Bogotá D.C.",
+      "state_id": 58,
+      "country": "Colômbia",
+      "country_id": 47,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 67,
+          "name": "Aeroporto Internacional El Dorado",
+          "iata": "BOG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Bolonha",
+      "state": "Emilia-Romagna",
+      "state_id": 94,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 62,
+          "name": "Aeroporto Internacional Guglielmo Marconi",
+          "iata": "BLQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Bombinhas",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 72,
+      "name": "Bonito",
+      "state": "Mato Grosso do Sul",
+      "state_id": 23,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 80,
+          "name": "Aeroporto Regional de Bonito",
+          "iata": "BYO",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 89,
+          "name": "Aeroporto Internacional de Campo Grande",
+          "iata": "CGR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Boston",
+      "state": "Massachusetts",
+      "state_id": 152,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 69,
+          "name": "Aeroporto Internacional de Boston",
+          "iata": "BOS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Brasília",
+      "state": "Distrito Federal",
+      "state_id": 18,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 75,
+          "name": "Aeroporto Internacional de Brasília",
+          "iata": "BSB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Bratislava",
+      "state": null,
+      "state_id": null,
+      "country": "Eslováquia",
+      "country_id": 193,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 76,
+          "name": "Aeroporto de Bratislava-M. R. Štefánik",
+          "iata": "BTS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Bremen",
+      "state": "Bremen",
+      "state_id": 65,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 72,
+          "name": "Aeroporto de Bremen",
+          "iata": "BRE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Bridgetown",
+      "state": "Saint Michael",
+      "state_id": 200,
+      "country": "Barbados",
+      "country_id": 19,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 48,
+          "name": "Aeroporto Internacional Grantley Adams",
+          "iata": "BGI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Brisbane",
+      "state": "Queensland",
+      "state_id": 195,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 66,
+          "name": "Aeroporto Internacional de Brisbane",
+          "iata": "BNE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Bruxelas",
+      "state": "Bruxelles",
+      "state_id": 10,
+      "country": "Bélgica",
+      "country_id": 21,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 74,
+          "name": "Brussels Airport - Zaventem",
+          "iata": "BRU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Bucareste",
+      "state": "Bucareste",
+      "state_id": 177,
+      "country": "Romênia",
+      "country_id": 176,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 40,
+          "name": "Aeroporto Internacional Aurel Vlaicu",
+          "iata": "BBU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 230,
+          "name": "Henri Coandă International Airport",
+          "iata": "OTP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Budapeste",
+      "state": "Budapeste",
+      "state_id": 178,
+      "country": "Hungria",
+      "country_id": 97,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 77,
+          "name": "Aeroporto de Budapeste Ferenc Liszt",
+          "iata": "BUD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Buenos Aires",
+      "state": "Buenos Aires",
+      "state_id": 1,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 14,
+          "name": "Jorge Newberry Airpark",
+          "iata": "AEP",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 78,
+          "name": "Aeroporto Internacional Ministro Pistarini",
+          "iata": "BUE",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 125,
+          "name": "Ministro Pistarini International Airport",
+          "iata": "EZE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Búzios",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 326,
+          "name": "Aeroporto Internacional de Cabo Frio",
+          "iata": "CFB",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 327,
+          "name": "Rio de Janeiro Area",
+          "iata": "RIO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Cabo de Santo Agostinho",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 254,
+          "name": "Aeroporto Internacional do Recife/Guararapes - Gilberto Freyre",
+          "iata": "REC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Cabo Frio",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 326,
+          "name": "Aeroporto Internacional de Cabo Frio",
+          "iata": "CFB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Cacoal",
+      "state": "Rondônia",
+      "state_id": 33,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 331,
+          "name": "Aeroporto de Cacoal",
+          "iata": "OAL",
+          "lat": "-11.495556",
+          "long": "-61.450833"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cairns",
+      "state": "Queensland",
+      "state_id": 195,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 96,
+          "name": "Aeroporto de Cairns",
+          "iata": "CNS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Cairo",
+      "state": null,
+      "state_id": null,
+      "country": "Bielorrússia",
+      "country_id": 20,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 82,
+          "name": "Aeroporto Internacional do Cairo",
+          "iata": "CAI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Calama",
+      "state": "El Loa",
+      "state_id": 46,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 92,
+          "name": "Aeroporto El Loa Calama",
+          "iata": "CJC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Caldas Novas",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 94,
+          "name": "Aeroporto de Caldas Novas",
+          "iata": "CLV",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 140,
+          "name": "Aeroporto de Goiânia - Santa Genoveva",
+          "iata": "GYN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Camaçari",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 10,
+      "name": "Camberra",
+      "state": "Canberra",
+      "state_id": 193,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 84,
+          "name": "Aeroporto de Camberra",
+          "iata": "CBR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Campina Grande",
+      "state": "Paraíba",
+      "state_id": 26,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 99,
+          "name": "Aeroporto de Campina Grande – Presidente João Suassuna",
+          "iata": "CPV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Campina Grande do Sul",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 105,
+          "name": "Aeroporto Internacional de Curitiba / Afonso Pena",
+          "iata": "CWB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Campinas",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 302,
+          "name": "Aeroport Viracopos/Campinas Internacional",
+          "iata": "VCP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Campo Grande",
+      "state": "Mato Grosso do Sul",
+      "state_id": 23,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 89,
+          "name": "Aeroporto Internacional de Campo Grande",
+          "iata": "CGR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Campos do Jordão",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 261,
+          "name": "São Paulo Area",
+          "iata": "SAO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Cancun",
+      "state": "Quintana Roo",
+      "state_id": 117,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 102,
+          "name": "Cancún International Airport",
+          "iata": "CUN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Canela",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 243,
+          "name": "Aeroporto Internacional Porto Alegre Salgado Filho",
+          "iata": "POA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Cartagena",
+      "state": "Bolívar",
+      "state_id": 59,
+      "country": "Colômbia",
+      "country_id": 47,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 101,
+          "name": "Rafael Núñez International Airport",
+          "iata": "CTG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Caruaru",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 91,
+      "name": "Cascavel",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 81,
+          "name": "Aeroporto Municipal de Cascavel",
+          "iata": "CAC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Catania",
+      "state": "Sicília",
+      "state_id": 103,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 100,
+          "name": "Catania–Fontanarossa Airport",
+          "iata": "CTA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Caxias do Sul",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 106,
+          "name": "Aeroporto Regional de Caxias do Sul / Hugo Cantergiani",
+          "iata": "CXJ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Chapada dos Guimarães",
+      "state": "Mato Grosso",
+      "state_id": 22,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 87,
+          "name": "Aeroporto Internacional de Cuiabá - Marechal Rondon",
+          "iata": "CGB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Chapeco",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 312,
+          "name": "Aeroporto Serafin Enoss Bertaso",
+          "iata": "XAP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Charleston",
+      "state": "Carolina do Sul",
+      "state_id": 139,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 91,
+          "name": "Charleston International Airport",
+          "iata": "CHS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Charlotte",
+      "state": "Carolina do Norte",
+      "state_id": 138,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 93,
+          "name": "Aeroporto Internacional de Charlotte/Douglas",
+          "iata": "CLT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Chicago",
+      "state": "Ilinóis",
+      "state_id": 146,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 228,
+          "name": "O'Hare International Airport",
+          "iata": "ORD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Chisinau",
+      "state": null,
+      "state_id": null,
+      "country": "Moldova",
+      "country_id": 140,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 174,
+          "name": "Chișinău International Airport",
+          "iata": "KIV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Christchurch",
+      "state": "Christchurch",
+      "state_id": 186,
+      "country": "Nova Zelândia",
+      "country_id": 153,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 90,
+          "name": "Aeroporto Internacional de Christchurch",
+          "iata": "CHC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Cidade do Leste",
+      "state": "Ciudad del Este",
+      "state_id": 129,
+      "country": "Paraguai",
+      "country_id": 167,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 17,
+          "name": "Aeroporto Internacional Guaraní",
+          "iata": "AGT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Cidade do México",
+      "state": null,
+      "state_id": null,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 205,
+          "name": "Mexico City International Airport",
+          "iata": "MEX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Cidade do Panamá",
+      "state": null,
+      "state_id": null,
+      "country": "Panamá",
+      "country_id": 165,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 248,
+          "name": "Tocumen International Airport",
+          "iata": "PTY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Cingapura",
+      "state": null,
+      "state_id": null,
+      "country": "Singapura",
+      "country_id": 192,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 272,
+          "name": "Singapore Changi Airport",
+          "iata": "SIN",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 314,
+          "name": "Seletar Airport",
+          "iata": "XSP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "name": "Cleveland",
+      "state": "Ohio",
+      "state_id": 161,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 214,
+      "name": "Colônia",
+      "state": "Renânia do Norte-Vestfália",
+      "state_id": 68,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 361,
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "state_id": 140,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 89,
+      "name": "Conde",
+      "state": "Paraíba",
+      "state_id": 26,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 190,
+      "name": "Copenhague",
+      "state": "Região Hovedstaden",
+      "state_id": 72,
+      "country": "Dinamarca",
+      "country_id": 58,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 98,
+          "name": "Copenhagen Airport, Kastrup",
+          "iata": "CPH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Córdoba",
+      "state": "Córdoba",
+      "state_id": 2,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 97,
+          "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
+          "iata": "COR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Costa do Sauípe",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Cozumel",
+      "state": "Quintana Roo",
+      "state_id": 117,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 107,
+          "name": "Cozumel International Airport",
+          "iata": "CZM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Cracóvia",
+      "state": null,
+      "state_id": null,
+      "country": "Polônia",
+      "country_id": 171,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 176,
+          "name": "John Paul II International Airport Kraków–Balice",
+          "iata": "KRK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Cuiabá",
+      "state": "Mato Grosso",
+      "state_id": 22,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 87,
+          "name": "Aeroporto Internacional de Cuiabá - Marechal Rondon",
+          "iata": "CGB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Cumbuco",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 263,
+      "name": "Curaçao",
+      "state": "Curaçao",
+      "state_id": 112,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 103,
+          "name": "Curaçao International Airport",
+          "iata": "CUR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Curitiba",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 105,
+          "name": "Aeroporto Internacional de Curitiba / Afonso Pena",
+          "iata": "CWB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Cusco",
+      "state": "Cusco",
+      "state_id": 171,
+      "country": "Peru",
+      "country_id": 168,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 104,
+          "name": "Alejandro Velasco Astete International Airport",
+          "iata": "CUZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "name": "Dallas",
+      "state": "Texas",
+      "state_id": 164,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 112,
+          "name": "Dallas/Fort Worth International Airport",
+          "iata": "DFW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "name": "Daytona Beach",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 108,
+          "name": "Daytona Beach International Airport",
+          "iata": "DAB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Denver",
+      "state": "Colorado",
+      "state_id": 140,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 111,
+          "name": "Denver International Airport",
+          "iata": "DEN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Detroit",
+      "state": "Michigan",
+      "state_id": 153,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 116,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "iata": "DTW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Doha",
+      "state": "Doha",
+      "state_id": 207,
+      "country": "Catar",
+      "country_id": 174,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 114,
+          "name": "Hamad International Airport",
+          "iata": "DOH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Dortmund",
+      "state": "Baden-Württemberg",
+      "state_id": 61,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 215,
+      "name": "Drummond Island",
+      "state": "Saxónia",
+      "state_id": 69,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 115,
+          "name": "Drummond Island Airport",
+          "iata": "DRE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Dubai",
+      "state": "Dubai",
+      "state_id": 190,
+      "country": "Emirados Árabes",
+      "country_id": 224,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 119,
+          "name": "Dubai International Airport",
+          "iata": "DXB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Dublin",
+      "state": "Leinster",
+      "state_id": 90,
+      "country": "Irlanda",
+      "country_id": 103,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 117,
+          "name": "Dublin Airport",
+          "iata": "DUB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Dubrovnik",
+      "state": null,
+      "state_id": null,
+      "country": "Croácia",
+      "country_id": 54,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 109,
+          "name": "Dubrovnik Airport",
+          "iata": "DBV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Durban",
+      "state": null,
+      "state_id": null,
+      "country": "África do Sul",
+      "country_id": 197,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 118,
+          "name": "King Shaka International Airport",
+          "iata": "DUR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Eagle",
+      "state": "Colorado",
+      "state_id": 140,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 120,
+          "name": "Eagle County Regional Airport",
+          "iata": "EGE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Eilat",
+      "state": "Southern",
+      "state_id": 92,
+      "country": "Israel",
+      "country_id": 104,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 303,
+          "name": "Ovda Airport",
+          "iata": "VDA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Eindhoven",
+      "state": null,
+      "state_id": null,
+      "country": "Holanda",
+      "country_id": 150,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 121,
+          "name": "Eindhoven Airport",
+          "iata": "EIN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "El Calafate",
+      "state": "Santa Cruz",
+      "state_id": 6,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 135,
+          "name": "Comandante Armando Tola International Airport",
+          "iata": "FTE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Erechim",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 243,
+          "name": "Aeroporto Internacional Porto Alegre Salgado Filho",
+          "iata": "POA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "name": "Estocolmo",
+      "state": "Estocolmo",
+      "state_id": 130,
+      "country": "Suécia",
+      "country_id": 205,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 27,
+          "name": "Stockholm Arlanda Airport",
+          "iata": "ARN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Estrasburgo",
+      "state": "Alsácia",
+      "state_id": 83,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 284,
+          "name": "Strasbourg Airport",
+          "iata": "SXB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Faro",
+      "state": "Distrito de Faro",
+      "state_id": 123,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 126,
+          "name": "Faro Airport",
+          "iata": "FAO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Fernando de Noronha",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 128,
+          "name": "Aeroporto de Fernando de Noronha",
+          "iata": "FEN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "name": "Filadélfia",
+      "state": "Pensilvânia",
+      "state_id": 163,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 234,
+          "name": "Philadelphia International Airport",
+          "iata": "PHL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Fiumicino",
+      "state": "Roma",
+      "state_id": 100,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 247,
+      "name": "Florença",
+      "state": "Toscana",
+      "state_id": 105,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 131,
+          "name": "Florence Airport, Peretola",
+          "iata": "FLR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Florianópolis",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 130,
+          "name": "Aeroporto Internacional de Florianópolis / Hercílio Luz",
+          "iata": "FLN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Fort Lauderdale",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 129,
+          "name": "Fort Lauderdale–Hollywood International Airport",
+          "iata": "FLL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Fortaleza",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 133,
+          "name": "Aeroporto Internacional de Fortaleza / Pinto Martins",
+          "iata": "FOR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Foz do Iguaçu",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 154,
+          "name": "Aeroporto Internacional de Foz do Iguaçu",
+          "iata": "IGU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Frankfurt",
+      "state": "Hessen",
+      "state_id": 67,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 134,
+          "name": "Frankfurt Airport",
+          "iata": "FRA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Fresno",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 297,
+      "name": "Funchal",
+      "state": "Madeira",
+      "state_id": 125,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 132,
+          "name": "Madeira Airport",
+          "iata": "FNC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Gaspar",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 224,
+          "name": "Aeroporto Internacional de Navegantes / Ministro Victor Konder",
+          "iata": "NVT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Genebra",
+      "state": "Geneve",
+      "state_id": 43,
+      "country": "Suíça",
+      "country_id": 206,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 139,
+          "name": "Geneva Airport",
+          "iata": "GVA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Goiânia",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 140,
+          "name": "Aeroporto de Goiânia - Santa Genoveva",
+          "iata": "GYN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Gramado",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 243,
+          "name": "Aeroporto Internacional Porto Alegre Salgado Filho",
+          "iata": "POA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Guadalajara",
+      "state": "Jalisco",
+      "state_id": 115,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 136,
+          "name": "Guadalajara International Airport",
+          "iata": "GDL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Guangzhou",
+      "state": "Guangdong Sheng",
+      "state_id": 54,
+      "country": "China",
+      "country_id": 44,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 83,
+          "name": "Aeroporto Internacional de Guangzhou Baiyun",
+          "iata": "CAN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Guarajuba",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Guarapari",
+      "state": "Espírito Santo",
+      "state_id": 19,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 425,
+      "name": "Guarapuava",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 329,
+          "name": "Aeroporto Regional de Guarapuava Tancredo Thomas de Faria",
+          "iata": "GPB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Guarujá",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Guarulhos",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Hamburgo",
+      "state": "Hamburgo",
+      "state_id": 66,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 142,
+          "name": "Hamburg Airport",
+          "iata": "HAM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Hanover",
+      "state": "Baixa Saxónia",
+      "state_id": 62,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 141,
+          "name": "Hannover Airport",
+          "iata": "HAJ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Havana",
+      "state": "La Habana",
+      "state_id": 205,
+      "country": "Cuba",
+      "country_id": 55,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 143,
+          "name": "José Martí International Airport",
+          "iata": "HAV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Helsinque",
+      "state": "Helsinki",
+      "state_id": 82,
+      "country": "Finlândia",
+      "country_id": 72,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 144,
+          "name": "Helsinki Airport",
+          "iata": "HEL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Hong Kong",
+      "state": "Hong Kong",
+      "state_id": 56,
+      "country": "China",
+      "country_id": 44,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 145,
+          "name": "Hong Kong International Airport",
+          "iata": "HKG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Honolulu",
+      "state": "Havaí",
+      "state_id": 147,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 148,
+          "name": "Honolulu International Airport",
+          "iata": "HNL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Houston",
+      "state": "Texas",
+      "state_id": 164,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 150,
+          "name": "George Bush Intercontinental Airport",
+          "iata": "IAH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Ibiza",
+      "state": "Ilhas Baleares",
+      "state_id": 80,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 151,
+          "name": "Ibiza Airport",
+          "iata": "IBZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "name": "Iguaraçu",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 206,
+          "name": "Aeroporto Regional de Maringá / Silvio Name Junior",
+          "iata": "MGF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Ilha de Barú",
+      "state": "Bolívar",
+      "state_id": 59,
+      "country": "Colômbia",
+      "country_id": 47,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 41,
+      "name": "Ilha de Comandatuba",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 156,
+          "name": "Aeroporto de Ilhéus/Bahia-Jorge Amado",
+          "iata": "IOS",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 330,
+          "name": "Aeroporto de Una-Comandatuba",
+          "iata": "UNA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Ilha de Páscoa",
+      "state": "Ilha de Páscoa",
+      "state_id": 47,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 157,
+          "name": "Mataveri International Airport",
+          "iata": "IPC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Ilhabela",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Ilhéus",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 156,
+          "name": "Aeroporto de Ilhéus/Bahia-Jorge Amado",
+          "iata": "IOS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Imbassaí",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Imperatriz",
+      "state": "Maranhão",
+      "state_id": 21,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 155,
+          "name": "Aeroporto de Imperatriz – Prefeito Renato Moreira",
+          "iata": "IMP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Ipojuca",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 94,
+      "name": "Iretama",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 206,
+          "name": "Aeroporto Regional de Maringá / Silvio Name Junior",
+          "iata": "MGF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "name": "Istambul",
+      "state": "Mármara",
+      "state_id": 132,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 158,
+          "name": "Istanbul New Airport",
+          "iata": "IST",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Itacaré",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 132,
+      "name": "Itajaí",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 44,
+      "name": "Itaparica",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 332,
+      "name": "Izmir",
+      "state": "Izmir",
+      "state_id": 133,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 10,
+          "name": "Adnan Menderes Airport",
+          "iata": "ADB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Jacksonville",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 161,
+          "name": "Jacksonville International Airport",
+          "iata": "JAX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Jaguaruna",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 164,
+          "name": "Aeroporto Humberto Ghizzo Bortoluzzi JJG",
+          "iata": "JJG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Jaipur",
+      "state": "Rajastão",
+      "state_id": 183,
+      "country": "Índia",
+      "country_id": 99,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 160,
+          "name": "Jaipur International Airport",
+          "iata": "JAI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Japaratinga",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 202,
+          "name": "Aeroporto de Maceió / Zumbi dos Palmares",
+          "iata": "MCZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Jericoacoara",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 163,
+          "name": "Aeroporto Regional de Jericoacoara - Comandante Ariston Pessoa",
+          "iata": "JJD",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 133,
+          "name": "Aeroporto Internacional de Fortaleza / Pinto Martins",
+          "iata": "FOR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Ji-Paraná",
+      "state": "Rondônia",
+      "state_id": 33,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 169,
+          "name": "Aeroporto de Ji-Paraná",
+          "iata": "JPR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Joanesburgo",
+      "state": null,
+      "state_id": null,
+      "country": "África do Sul",
+      "country_id": 197,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 166,
+          "name": "O. R. Tambo International Airport",
+          "iata": "JNB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "João Pessoa",
+      "state": "Paraíba",
+      "state_id": 26,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 168,
+          "name": "Aeroporto Internacional de João Pessoa/Presidente Castro Pinto",
+          "iata": "JPA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Joinville",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 167,
+          "name": "Aeroporto de Joinville - Lauro Carneiro de Loyola",
+          "iata": "JOI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Juazeiro do Norte",
+      "state": "Ceará",
+      "state_id": 17,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 162,
+          "name": "Aeroporto de Juazeiro do Norte – Orlando Bezerra",
+          "iata": "JDO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Kansas City",
+      "state": "Kansas",
+      "state_id": 148,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 387,
+      "name": "Kansas City",
+      "state": "Missouri",
+      "state_id": 155,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 286,
+      "name": "Karachi",
+      "state": "Sinde",
+      "state_id": 211,
+      "country": "Paquistão",
+      "country_id": 162,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 173,
+          "name": "Jinnah International Airport",
+          "iata": "KHI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Katmandu",
+      "state": "Madhyamanchal",
+      "state_id": 213,
+      "country": "Nepal",
+      "country_id": 149,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 177,
+          "name": "Tribhuvan International Airport",
+          "iata": "KTM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Key West",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 124,
+          "name": "Key West International Airport",
+          "iata": "EYW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Kiev",
+      "state": "Kiev",
+      "state_id": 175,
+      "country": "Ucrânia",
+      "country_id": 223,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 172,
+          "name": "Boryspil International Airport",
+          "iata": "KBP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Koblenz",
+      "state": null,
+      "state_id": null,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 321,
+          "name": "Koblenz-Winningen Airport",
+          "iata": "ZNV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Kuala Lumpur",
+      "state": "Malásia",
+      "state_id": 209,
+      "country": "Malásia",
+      "country_id": 129,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 178,
+          "name": "Kuala Lumpur International Airport",
+          "iata": "KUL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Kyoto",
+      "state": "Präfektur Kyōto",
+      "state_id": 110,
+      "country": "Japão",
+      "country_id": 107,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 299,
+          "name": "Kansai Airport",
+          "iata": "UKY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "La Spezia",
+      "state": "Lingúria",
+      "state_id": 96,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 135,
+      "name": "Lages",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 179,
+          "name": "Aeroporto Federal Antônio Correia Pinto de Macedo",
+          "iata": "LAJ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Lake Louise",
+      "state": "Alberta",
+      "state_id": 39,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 385,
+      "name": "Lansing",
+      "state": "Michigan",
+      "state_id": 153,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 180,
+          "name": "Capital Region International Airport",
+          "iata": "LAN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Las Palmas de Gran Canaria",
+      "state": "Canárias",
+      "state_id": 75,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 192,
+          "name": "Gran Canaria Airport",
+          "iata": "LPA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Las Vegas",
+      "state": "Nevada",
+      "state_id": 156,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 181,
+          "name": "McCarran International Airport",
+          "iata": "LAS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Leipzig",
+      "state": "Berlim",
+      "state_id": 64,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 410,
+      "name": "Lençóis",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 324,
+          "name": "Aeroporto da Chapada Diamantina - Coronel Horácio de Matos",
+          "iata": "LEC",
+          "lat": "-12.486246521635907",
+          "long": "-41.27489069914413"
+        },
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "León",
+      "state": "Guanajuato",
+      "state_id": 113,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 59,
+          "name": "Aeroporto Internacional del Bajío",
+          "iata": "BJX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Liege",
+      "state": "Valônia",
+      "state_id": 11,
+      "country": "Bélgica",
+      "country_id": 21,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 185,
+          "name": "Liège Airport",
+          "iata": "LGG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Lima",
+      "state": "Lima",
+      "state_id": 172,
+      "country": "Peru",
+      "country_id": 168,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 188,
+          "name": "Jorge Chávez International Airport",
+          "iata": "LIM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Lins",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 170,
+          "name": "Aeroporto Estadual De Bauru Arealva",
+          "iata": "JTC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Lisboa",
+      "state": "Lisboa",
+      "state_id": 124,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 325,
+          "name": "Lisboa",
+          "iata": "LIS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Liubliana",
+      "state": null,
+      "state_id": null,
+      "country": "Eslovênia",
+      "country_id": 194,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 190,
+          "name": "Ljubljana Jože Pučnik Airport",
+          "iata": "LJU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Liverpool",
+      "state": "Merseyside",
+      "state_id": 215,
+      "country": "Reino Unido",
+      "country_id": 225,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 344,
+      "name": "Londres",
+      "state": "Grande Londres",
+      "state_id": 216,
+      "country": "Reino Unido",
+      "country_id": 225,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 183,
+          "name": "London City Airport",
+          "iata": "LCY",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 186,
+          "name": "Gatwick Airport",
+          "iata": "LGW",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 187,
+          "name": "Heathrow Airport",
+          "iata": "LHR",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 191,
+          "name": "London Area",
+          "iata": "LON",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 193,
+          "name": "Luton Airport",
+          "iata": "LTN",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 280,
+          "name": "London Stansted Airport",
+          "iata": "STN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Londrina",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 184,
+          "name": "Aeroporto Londrina",
+          "iata": "LDB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Long Beach",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 352,
+      "name": "Los Angeles",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 182,
+          "name": "Los Angeles International Airport",
+          "iata": "LAX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Louisville",
+      "state": "Kentucky",
+      "state_id": 149,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 325,
+      "name": "Lucerne",
+      "state": "Lucerne",
+      "state_id": 44,
+      "country": "Suíça",
+      "country_id": 206,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 260,
+      "name": "Luxemburgo",
+      "state": null,
+      "state_id": null,
+      "country": "Luxemburgo",
+      "country_id": 124,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 194,
+          "name": "Luxembourg Findel Airport",
+          "iata": "LUX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Lviv",
+      "state": null,
+      "state_id": null,
+      "country": "Ucrânia",
+      "country_id": 223,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 203,
+      "name": "Lyon",
+      "state": "Ródano-Alpes",
+      "state_id": 88,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 195,
+          "name": "Lyon–Saint-Exupéry Airport",
+          "iata": "LYS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Macapa",
+      "state": "Amapá",
+      "state_id": 14,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 200,
+          "name": "Aeroporto Internacional de Macapá",
+          "iata": "MCP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Maceió",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 202,
+          "name": "Aeroporto de Maceió / Zumbi dos Palmares",
+          "iata": "MCZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Madrid",
+      "state": "Madrid",
+      "state_id": 77,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 197,
+          "name": "Adolfo Suárez Madrid–Barajas Airport",
+          "iata": "MAD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Málaga",
+      "state": "Andaluzia",
+      "state_id": 74,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 15,
+          "name": "Malaga Airport",
+          "iata": "AGP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "name": "Malé",
+      "state": null,
+      "state_id": null,
+      "country": "Maldivas",
+      "country_id": 130,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 328,
+          "name": "Velana International Airport - Male Airport",
+          "iata": "MLE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Manaus",
+      "state": "Amazonas",
+      "state_id": 15,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 198,
+          "name": "Aeroporto Internacional de Manaus / Eduardo Gomes",
+          "iata": "MAO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Mangaratiba",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Marabá",
+      "state": "Pará",
+      "state_id": 25,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 196,
+          "name": "Aeroporto de Marabá - João Correa da Rocha",
+          "iata": "MAB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Maragogi",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 202,
+          "name": "Aeroporto de Maceió / Zumbi dos Palmares",
+          "iata": "MCZ",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 254,
+          "name": "Aeroporto Internacional do Recife/Guararapes - Gilberto Freyre",
+          "iata": "REC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Maraú",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 32,
+      "name": "Marechal Deodoro",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 145,
+      "name": "Marília",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 209,
+          "name": "Aeroporto Estadual de Marília",
+          "iata": "MII",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Maringá",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 206,
+          "name": "Aeroporto Regional de Maringá / Silvio Name Junior",
+          "iata": "MGF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Marselha",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "state_id": 87,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 212,
+          "name": "Marseille Provence Airport",
+          "iata": "MRS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Mata de São João",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Melbourne",
+      "state": "Victoria",
+      "state_id": 197,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 204,
+          "name": "Melbourne Airport",
+          "iata": "MEL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Melbourne",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 210,
+          "name": "Orlando Melbourne International Airport",
+          "iata": "MLB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Memphis",
+      "state": "Tennessee",
+      "state_id": 165,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 4,
+      "name": "Mendoza",
+      "state": "Mendoza",
+      "state_id": 3,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 203,
+          "name": "Gov. Francisco Gabrielli International Airport",
+          "iata": "MDZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Mérida",
+      "state": "Yucatán",
+      "state_id": 119,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 208,
+          "name": "Manuel Crescencio Rejón International Airport",
+          "iata": "MID",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Mesa",
+      "state": "Arizona",
+      "state_id": 136,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 371,
+      "name": "Miami",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 207,
+          "name": "Miami International Airport",
+          "iata": "MIA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Milão",
+      "state": "Lombardia",
+      "state_id": 97,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 216,
+          "name": "Milan–Malpensa Airport",
+          "iata": "MXP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Minneápolis",
+      "state": "Minnesota",
+      "state_id": 154,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 233,
+      "name": "Modena",
+      "state": "Emilia-Romagna",
+      "state_id": 94,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 248,
+      "name": "Montalcino",
+      "state": "Toscana",
+      "state_id": 105,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 79,
+      "name": "Monte Verde",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 268,
+      "name": "Monterrey",
+      "state": "Nuevo León",
+      "state_id": 116,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 213,
+          "name": "General Mariano Escobedo International Airport",
+          "iata": "MTY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Montes Claros",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 211,
+          "name": "Aeroporto de Montes Claros/Mário Ribeiro",
+          "iata": "MOC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Montevideo",
+      "state": "Montevideo",
+      "state_id": 168,
+      "country": "Uruguai",
+      "country_id": 228,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 215,
+          "name": "Carrasco Gral. Cesáreo L. Berisso International Airport",
+          "iata": "MVD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Montréal",
+      "state": "Quebec",
+      "state_id": 42,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 317,
+          "name": "Montréal–Trudeau International Airport",
+          "iata": "YUL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Morro de São Paulo",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Moscou",
+      "state": null,
+      "state_id": null,
+      "country": "Rússia",
+      "country_id": 177,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 282,
+          "name": "Sheremetyevo International Airport",
+          "iata": "SVO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Mossoró",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 133,
+          "name": "Aeroporto Internacional de Fortaleza / Pinto Martins",
+          "iata": "FOR",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "state_id": 182,
+      "country": "Índia",
+      "country_id": 99,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 68,
+          "name": "Aeroporto Internacional de Chhatrapati Shivaji",
+          "iata": "BOM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Munique",
+      "state": "Baviera",
+      "state_id": 63,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 214,
+          "name": "Munich Airport",
+          "iata": "MUC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Muscat",
+      "state": "Omã",
+      "state_id": 212,
+      "country": "Omã",
+      "country_id": 161,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 201,
+          "name": "Muscat International Airport",
+          "iata": "MCT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Mykonos",
+      "state": null,
+      "state_id": null,
+      "country": "Grécia",
+      "country_id": 83,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 165,
+          "name": "Mykonos Island National Airport",
+          "iata": "JMK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Nagoya",
+      "state": "Präfektur Aichi",
+      "state_id": 108,
+      "country": "Japão",
+      "country_id": 107,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 222,
+          "name": "Chūbu Centrair International Airport",
+          "iata": "NGO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Nairóbi",
+      "state": null,
+      "state_id": null,
+      "country": "Quênia",
+      "country_id": 110,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 220,
+          "name": "Jomo Kenyatta International Airport",
+          "iata": "NBO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Nápoles",
+      "state": "Campania",
+      "state_id": 93,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 217,
+          "name": "Naples International Airport",
+          "iata": "NAP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Narita",
+      "state": "Präfektur Chiba",
+      "state_id": 109,
+      "country": "Japão",
+      "country_id": 107,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 398,
+      "name": "Nashville",
+      "state": "Tennessee",
+      "state_id": 165,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 65,
+          "name": "Aeroporto Internacional de Nashville",
+          "iata": "BNA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Natal",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Navegantes",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 224,
+          "name": "Aeroporto Internacional de Navegantes / Ministro Victor Konder",
+          "iata": "NVT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "name": "Nevsehir",
+      "state": null,
+      "state_id": null,
+      "country": "Turquia",
+      "country_id": 218,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 219,
+          "name": "Nevşehir Kapadokya Airport",
+          "iata": "NAV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Newark",
+      "state": "New Jersey",
+      "state_id": 157,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 123,
+          "name": "Newark Liberty International Airport",
+          "iata": "EWR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Newcastle",
+      "state": "Nova Gales do Sul",
+      "state_id": 194,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 44,
+          "name": "Lake Macquarie Airport - Belmont",
+          "iata": "BEO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Nice",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "state_id": 87,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 221,
+          "name": "Nice Côte d'Azur Airport",
+          "iata": "NCE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Niterói",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Nova Delhi",
+      "state": "Delhi",
+      "state_id": 180,
+      "country": "Índia",
+      "country_id": 99,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 110,
+          "name": "Indira Gandhi International Airport",
+          "iata": "DEL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Nova York",
+      "state": "New York",
+      "state_id": 158,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 225,
+          "name": "New York City Area",
+          "iata": "NYC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Obregon",
+      "state": "Sonora",
+      "state_id": 118,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 86,
+          "name": "Aeroporto de Ciudad Obregón",
+          "iata": "CEN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "name": "Odessa",
+      "state": null,
+      "state_id": null,
+      "country": "Ucrânia",
+      "country_id": 223,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 394,
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "state_id": 160,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 146,
+      "name": "Olímpia",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Olinda",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 372,
+      "name": "Orlando",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 199,
+          "name": "Orlando International Airport",
+          "iata": "MCO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Orvieto",
+      "state": "Toscana",
+      "state_id": 105,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 256,
+      "name": "Osaka",
+      "state": "Präfektur Ōsaka",
+      "state_id": 111,
+      "country": "Japão",
+      "country_id": 107,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 159,
+          "name": "Osaka International Airport",
+          "iata": "ITM",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 175,
+          "name": "Kansai International Airport",
+          "iata": "KIX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Oslo",
+      "state": "Oslo",
+      "state_id": 121,
+      "country": "Noruega",
+      "country_id": 160,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 229,
+          "name": "Oslo Airport, Gardermoen",
+          "iata": "OSL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Ottawa",
+      "state": "Ontário",
+      "state_id": 41,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 315,
+          "name": "Ottawa Macdonald–Cartier International Airport",
+          "iata": "YOW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Ouro Preto",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 244,
+      "name": "Palermo",
+      "state": "Sicília",
+      "state_id": 103,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 239,
+          "name": "Falcone–Borsellino Airport",
+          "iata": "PMO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Palma de Maiorca",
+      "state": "Ilhas Baleares",
+      "state_id": 80,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 238,
+          "name": "Palma de Mallorca Airport",
+          "iata": "PMI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Palmas",
+      "state": "Tocantins",
+      "state_id": 38,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 240,
+          "name": "Aeroporto Brigadeiro Lysias Rodrigues",
+          "iata": "PMW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Paraty",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Paris",
+      "state": "Paris",
+      "state_id": 86,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 85,
+          "name": "Aeroporto de Paris-Charles de Gaulle",
+          "iata": "CDG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Penha",
+      "state": "Santa Catarina",
+      "state_id": 35,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 224,
+          "name": "Aeroporto Internacional de Navegantes / Ministro Victor Konder",
+          "iata": "NVT",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 130,
+          "name": "Aeroporto Internacional de Florianópolis / Hercílio Luz",
+          "iata": "FLN",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 167,
+          "name": "Aeroporto de Joinville - Lauro Carneiro de Loyola",
+          "iata": "JOI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Pequim",
+      "state": "Guangdong Sheng",
+      "state_id": 54,
+      "country": "China",
+      "country_id": 44,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 233,
+          "name": "Beijing Capital International Airport",
+          "iata": "PEK",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Petrolina",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 242,
+          "name": "Aeroporto de Petrolina - Senador Nilo Coelho",
+          "iata": "PNZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Petrópolis",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 348,
+      "name": "Phoenix",
+      "state": "Arizona",
+      "state_id": 136,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 235,
+          "name": "Phoenix Sky Harbor International Airport",
+          "iata": "PHX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Phuket",
+      "state": null,
+      "state_id": null,
+      "country": "Tailândia",
+      "country_id": 211,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 146,
+          "name": "Phuket International Airport",
+          "iata": "HKT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Pipa",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "name": "Pirapozinho",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 245,
+          "name": "Aeroporto Estadual de Presidente Prudente",
+          "iata": "PPB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Pirenópolis",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 271,
+      "name": "Playa del Carmen",
+      "state": "Quintana Roo",
+      "state_id": 117,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 82,
+      "name": "Poços de Caldas",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 244,
+          "name": "Aeroporto Embaixador Walther Moreira Salles",
+          "iata": "POO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Ponta Delgada",
+      "state": "Região Autônoma de Açores",
+      "state_id": 127,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 231,
+          "name": "João Paulo II Airport",
+          "iata": "PDL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Pontal do Paraná",
+      "state": "Paraná",
+      "state_id": 27,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 105,
+          "name": "Aeroporto Internacional de Curitiba / Afonso Pena",
+          "iata": "CWB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "name": "Portand",
+      "state": "Oregon",
+      "state_id": 162,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 298,
+      "name": "Porto",
+      "state": "Porto",
+      "state_id": 126,
+      "country": "Portugal",
+      "country_id": 172,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 226,
+          "name": "Francisco de Sá Carneiro Airport",
+          "iata": "OPO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Porto Alegre",
+      "state": "Rio Grande do Sul",
+      "state_id": 32,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 243,
+          "name": "Aeroporto Internacional Porto Alegre Salgado Filho",
+          "iata": "POA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Porto de Galinhas",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 254,
+          "name": "Aeroporto Internacional do Recife/Guararapes - Gilberto Freyre",
+          "iata": "REC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Porto Seguro",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 70,
+          "name": "Aeroporto Internacional de Porto Seguro",
+          "iata": "BPS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Porto Velho",
+      "state": "Rondônia",
+      "state_id": 33,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 251,
+          "name": "Aeroporto Internacional de Porto Velho",
+          "iata": "PVH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Positano",
+      "state": "Campania",
+      "state_id": 93,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 187,
+      "name": "Praga",
+      "state": "Praga",
+      "state_id": 179,
+      "country": "República Tcheca",
+      "country_id": 57,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 246,
+          "name": "Václav Havel Airport Prague",
+          "iata": "PRG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Praia do Forte",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Presidente Prudente",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 245,
+          "name": "Aeroporto Estadual de Presidente Prudente",
+          "iata": "PPB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Pretoria",
+      "state": null,
+      "state_id": null,
+      "country": "África do Sul",
+      "country_id": 197,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 149,
+          "name": "Central Pretoria Airport",
+          "iata": "HPR",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 247,
+          "name": "Wonderboom Airport",
+          "iata": "PRY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Puerto Iguazú",
+      "state": "Misiones",
+      "state_id": 4,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 153,
+          "name": "Cataratas del Iguazú International Airport",
+          "iata": "IGR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Puerto Montt",
+      "state": "Los Lagos",
+      "state_id": 48,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 237,
+          "name": "El Tepual Airport",
+          "iata": "PMC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Puerto Natales",
+      "state": null,
+      "state_id": null,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 241,
+          "name": "Teniente Julio Gallardo Airport",
+          "iata": "PNT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Puerto Varas",
+      "state": "Los Lagos",
+      "state_id": 48,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 171,
+      "name": "Punta Arenas",
+      "state": null,
+      "state_id": null,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 250,
+          "name": "Presidente Carlos Ibáñez del Campo International Airport",
+          "iata": "PUQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Punta Cana",
+      "state": "Punta Cana",
+      "state_id": 217,
+      "country": "República Dominicana",
+      "country_id": 61,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 249,
+          "name": "Aeroporto Internacional de Punta Cana",
+          "iata": "PUJ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Punta del Este",
+      "state": "Maldonado",
+      "state_id": 169,
+      "country": "Uruguai",
+      "country_id": 228,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 232,
+          "name": "Capitán de Corbeta Carlos A. Curbelo International Airport",
+          "iata": "PDP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Quebec",
+      "state": "Quebec",
+      "state_id": 42,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 316,
+          "name": "Québec City Jean Lesage International Airport",
+          "iata": "YQB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Queenstown",
+      "state": "Tasmânia",
+      "state_id": 198,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 298,
+          "name": "Queenstown Airport",
+          "iata": "UEE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Recife",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 254,
+          "name": "Aeroporto Internacional do Recife/Guararapes - Gilberto Freyre",
+          "iata": "REC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Ribeirão Preto",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 252,
+          "name": "Aeroporto Estadual Dr. Leite Lopes",
+          "iata": "RAO",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Rio Branco",
+      "state": "Acre",
+      "state_id": 12,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 253,
+          "name": "Aeroporto Internacional de Rio Branco - Plácido de Castro",
+          "iata": "RBR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "state_id": 30,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 137,
+          "name": "Aeroporto Internacional do Rio de Janeiro Antônio Carlos Jobim / Galeão",
+          "iata": "GIG",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 268,
+          "name": "Aeroporto do Rio de Janeiro/Santos Dumont",
+          "iata": "SDU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 327,
+          "name": "Rio de Janeiro Area",
+          "iata": "RIO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Rio Quente",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 140,
+          "name": "Aeroporto de Goiânia - Santa Genoveva",
+          "iata": "GYN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Rio Verde",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 258,
+          "name": "Airport General Leite de Castro",
+          "iata": "RVD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Roma",
+      "state": "Lácio",
+      "state_id": 95,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 127,
+          "name": "Leonardo da Vinci–Fiumicino Airport",
+          "iata": "FCO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Roterdã",
+      "state": null,
+      "state_id": null,
+      "country": "Holanda",
+      "country_id": 150,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 257,
+          "name": "Rotterdam The Hague Airport",
+          "iata": "RTM",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Sacramento",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 304,
+      "name": "Saint Petersburg",
+      "state": null,
+      "state_id": null,
+      "country": "Rússia",
+      "country_id": 177,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 259,
+          "name": "Rzhevka Airport",
+          "iata": "RVH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "name": "Salinópolis",
+      "state": "Pará",
+      "state_id": 25,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 43,
+          "name": "Aeroporto Internacional de Belém/Val-de-Cans",
+          "iata": "BEL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "state_id": 166,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 275,
+          "name": "Aeroporto Internacional de Salt Lake City",
+          "iata": "SLC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Salvador",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 279,
+          "name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+          "iata": "SSA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Salzburgo",
+      "state": null,
+      "state_id": null,
+      "country": "Áustria",
+      "country_id": 14,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 287,
+          "name": "Salzburg Airport",
+          "iata": "SZG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "name": "San Andrés",
+      "state": "Santo André, Providência e Santa Catarina",
+      "state_id": 60,
+      "country": "Colômbia",
+      "country_id": 47,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 13,
+          "name": "Aeroporto Internacional Gustavo Rojas Pinilla",
+          "iata": "ADZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "name": "San Diego",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 260,
+          "name": "San Diego International Airport",
+          "iata": "SAN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "San Gimignano",
+      "state": "Siena",
+      "state_id": 104,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 355,
+      "name": "San Luis Obispo",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 264,
+          "name": "San Luis Obispo County Regional Airport",
+          "iata": "SBP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Santa Bárbara",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 263,
+          "name": "Santa Barbara Municipal Airport",
+          "iata": "SBA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Santiago",
+      "state": null,
+      "state_id": null,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 265,
+          "name": "Aeroporto Internacional Comodoro Arturo Merino Benítez",
+          "iata": "SCL",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Santiago de Compostela",
+      "state": "Galiza",
+      "state_id": 79,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 266,
+          "name": "Santiago de Compostela Airport",
+          "iata": "SCQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Santo Domingo",
+      "state": null,
+      "state_id": null,
+      "country": "República Dominicana",
+      "country_id": 61,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 267,
+          "name": "Las Américas International Airport",
+          "iata": "SDQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Santorini",
+      "state": null,
+      "state_id": null,
+      "country": "Grécia",
+      "country_id": 83,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 171,
+          "name": "Aeroporto Internacional de Santorini",
+          "iata": "JTR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "name": "Santos",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "name": "São Francisco",
+      "state": "Califórnia",
+      "state_id": 137,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 270,
+          "name": "San Francisco International Airport",
+          "iata": "SFO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "name": "São Gonçalo do Amarante",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "São José do Rio Preto",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 274,
+          "name": "Aeroporto Estadual Prof. Eribelto Manoel Reino",
+          "iata": "SJP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "São Luís",
+      "state": "Maranhão",
+      "state_id": 21,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 276,
+          "name": "Aeroporto Internacional Marechal Cunha Machado",
+          "iata": "SLZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "São Miguel do Gostoso",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "São Miguel dos Milagres",
+      "state": "Alagoas",
+      "state_id": 13,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 150,
+      "name": "São Paulo",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 88,
+          "name": "Aeroporto de São Paulo/Congonhas",
+          "iata": "CGH",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 138,
+          "name": "Aeroporto Internacional de São Paulo/Guarulhos",
+          "iata": "GRU",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 261,
+          "name": "São Paulo Area",
+          "iata": "SAO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sarajevo",
+      "state": null,
+      "state_id": null,
+      "country": "Bósnia e Herzegovina",
+      "country_id": 27,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 273,
+          "name": "Sarajevo International Airport",
+          "iata": "SJJ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Sauípe",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 403,
+      "name": "Seattle",
+      "state": "Washington",
+      "state_id": 167,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 269,
+          "name": "Seattle–Tacoma International Airport",
+          "iata": "SEA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Seul",
+      "state": "Südkorea",
+      "state_id": 208,
+      "country": "Coreia do Sul",
+      "country_id": 113,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 152,
+          "name": "Incheon International Airport",
+          "iata": "ICN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Sevilha",
+      "state": "Andaluzia",
+      "state_id": 74,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 283,
+          "name": "Aeropuerto de Sevilla",
+          "iata": "SVQ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Siena",
+      "state": "Toscana",
+      "state_id": 105,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 262,
+          "name": "Siena–Ampugnano Airport",
+          "iata": "SAY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Sinop",
+      "state": "Mato Grosso",
+      "state_id": 22,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 227,
+          "name": "Aeroporto de Sinop - Presidente João Batista Figueiredo",
+          "iata": "OPS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Sófia",
+      "state": "Sofiya-Grad",
+      "state_id": 176,
+      "country": "Bulgária",
+      "country_id": 33,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 277,
+          "name": "Sofia Airport",
+          "iata": "SOF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Sorrento",
+      "state": "Nápoles",
+      "state_id": 98,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 256,
+          "name": "Aeroporto de Sorrento",
+          "iata": "RRO",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Split",
+      "state": null,
+      "state_id": null,
+      "country": "Croácia",
+      "country_id": 54,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 278,
+          "name": "Split Airport",
+          "iata": "SPU",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "name": "St. Louis",
+      "state": "Missouri",
+      "state_id": 155,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 205,
+      "name": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "state_id": 61,
+      "country": "Alemanha",
+      "country_id": 80,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 281,
+          "name": "Stuttgart Airport",
+          "iata": "STR",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 323,
+          "name": "Stuttgart Airport",
+          "iata": "ZWS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sydney",
+      "state": "Nova Gales do Sul",
+      "state_id": 194,
+      "country": "Austrália",
+      "country_id": 13,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 286,
+          "name": "Kingsford Smith Airport",
+          "iata": "SYD",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Tamandaré",
+      "state": "Pernambuco",
+      "state_id": 28,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 373,
+      "name": "Tampa",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 293,
+          "name": "Tampa International Airport",
+          "iata": "TPA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Tel Aviv",
+      "state": "Tel Aviv",
+      "state_id": 91,
+      "country": "Israel",
+      "country_id": 104,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 292,
+          "name": "Ben Gurion Airport",
+          "iata": "TLV",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Tenerife",
+      "state": "Canárias",
+      "state_id": 75,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 289,
+          "name": "Tenerife–North Airport",
+          "iata": "TFN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Teresina",
+      "state": "Piauí",
+      "state_id": 29,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 290,
+          "name": "Aeroporto Senador Petrônio Portella",
+          "iata": "THE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Tiradentes",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 95,
+          "name": "Aeroporto Internacional de Confins - Tancredo Neves",
+          "iata": "CNF",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Tobago",
+      "state": null,
+      "state_id": null,
+      "country": "Trinidad e Tobago",
+      "country_id": 216,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 288,
+          "name": "Arthur Napoleon Raymond Robinson International Airport",
+          "iata": "TAB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Tóquio",
+      "state": null,
+      "state_id": null,
+      "country": "Japão",
+      "country_id": 107,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 147,
+          "name": "Haneda Airport",
+          "iata": "HND",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 223,
+          "name": "Narita International Airport",
+          "iata": "NRT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Toronto",
+      "state": "Ontário",
+      "state_id": 41,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 319,
+          "name": "Toronto Pearson International Airport",
+          "iata": "YYZ",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Toulouse",
+      "state": "Alta Garona",
+      "state_id": 85,
+      "country": "França",
+      "country_id": 73,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 291,
+          "name": "Toulouse–Blagnac Airport",
+          "iata": "TLS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Touros",
+      "state": "Rio Grande do Norte",
+      "state_id": 31,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 218,
+          "name": "Aeroporto Internacional de Natal - Governador Aluízio Alves",
+          "iata": "NAT",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Trancoso",
+      "state": "Bahia",
+      "state_id": 16,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 70,
+          "name": "Aeroporto Internacional de Porto Seguro",
+          "iata": "BPS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "name": "Três Lagoas",
+      "state": "Mato Grosso do Sul",
+      "state_id": 23,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 274,
+          "name": "Aeroporto Estadual Prof. Eribelto Manoel Reino",
+          "iata": "SJP",
+          "lat": null,
+          "long": null
+        },
+        {
+          "id": 245,
+          "name": "Aeroporto Estadual de Presidente Prudente",
+          "iata": "PPB",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Trindade",
+      "state": "Goiás",
+      "state_id": 20,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 349,
+      "name": "Tucson",
+      "state": "Arizona",
+      "state_id": 136,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 272,
+      "name": "Tulum",
+      "state": "Quintana Roo",
+      "state_id": 117,
+      "country": "México",
+      "country_id": 138,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 294,
+          "name": "Tulum Airport",
+          "iata": "TUY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Uberaba",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 296,
+          "name": "Aeroporto Mário de Almeida Franco",
+          "iata": "UBA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Uberlândia",
+      "state": "Minas Gerais",
+      "state_id": 24,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 297,
+          "name": "Aeroporto Ten. Cel. Av. César Bombonato",
+          "iata": "UDI",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ushuaia",
+      "state": "Terra do Fogo",
+      "state_id": 7,
+      "country": "Argentina",
+      "country_id": 10,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 300,
+          "name": "Ushuaia – Malvinas Argentinas International Airport",
+          "iata": "USH",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Valência",
+      "state": "Comunidade Valenciana",
+      "state_id": 78,
+      "country": "Espanha",
+      "country_id": 199,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 306,
+          "name": "Valencia Airport",
+          "iata": "VLC",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "name": "Valinhos",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 302,
+          "name": "Aeroport Viracopos/Campinas Internacional",
+          "iata": "VCP",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Valparaíso",
+      "state": "Região de Valparaíso",
+      "state_id": 50,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 157,
+      "name": "Vancouver",
+      "state": "Colúmbia Britânica",
+      "state_id": 40,
+      "country": "Canadá",
+      "country_id": 38,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 318,
+          "name": "Vancouver International Airport",
+          "iata": "YVR",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Varadero",
+      "state": "Matanzas",
+      "state_id": 206,
+      "country": "Cuba",
+      "country_id": 55,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 307,
+          "name": "Juan Gualberto Gómez Airport",
+          "iata": "VRA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Varsóvia",
+      "state": "Voivodato de Masóvia",
+      "state_id": 122,
+      "country": "Polônia",
+      "country_id": 171,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 310,
+          "name": "Warsaw Chopin Airport",
+          "iata": "WAW",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Veneza",
+      "state": "Vêneto",
+      "state_id": 107,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 301,
+          "name": "Venice Marco Polo Airport",
+          "iata": "VCE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Verona",
+      "state": "Vêneto",
+      "state_id": 107,
+      "country": "Italia",
+      "country_id": 105,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 308,
+          "name": "Verona Villafranca Airport",
+          "iata": "VRN",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Viena",
+      "state": "Wien",
+      "state_id": 8,
+      "country": "Áustria",
+      "country_id": 14,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 304,
+          "name": "Vienna International Airport",
+          "iata": "VIE",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Vila Velha",
+      "state": "Espírito Santo",
+      "state_id": 19,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 168,
+      "name": "Viña del Mar",
+      "state": "Região de Valparaíso",
+      "state_id": 50,
+      "country": "Chile",
+      "country_id": 43,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 151,
+      "name": "Vinhedo",
+      "state": "São Paulo",
+      "state_id": 36,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": []
+    },
+    {
+      "id": 62,
+      "name": "Vitoria",
+      "state": "Espírito Santo",
+      "state_id": 19,
+      "country": "Brasil",
+      "country_id": 30,
+      "destination_type": "n",
+      "airports": [
+        {
+          "id": 305,
+          "name": "Aeroporto Eurico de Aguiar Salles",
+          "iata": "VIX",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "name": "Washington D.C.",
+      "state": "Distrito de Colúmbia",
+      "state_id": 143,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 309,
+          "name": "Washington Area",
+          "iata": "WAS",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Wellington",
+      "state": "Wellington",
+      "state_id": 187,
+      "country": "Nova Zelândia",
+      "country_id": 153,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 311,
+          "name": "Wellington International Airport",
+          "iata": "WLG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "West Palm Beach",
+      "state": "Flórida",
+      "state_id": 145,
+      "country": "Estados Unidos",
+      "country_id": 226,
+      "destination_type": "i",
+      "airports": []
+    },
+    {
+      "id": 176,
+      "name": "Xangai",
+      "state": null,
+      "state_id": null,
+      "country": "China",
+      "country_id": 44,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 271,
+          "name": "Shanghai Hongqiao International Airport",
+          "iata": "SHA",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "XIAN",
+      "state": "Shaanxi",
+      "state_id": 55,
+      "country": "China",
+      "country_id": 44,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 313,
+          "name": "Xi'an Xianyang International Airport",
+          "iata": "XIY",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Zagrebe",
+      "state": "Grad Zagreb",
+      "state_id": 173,
+      "country": "Croácia",
+      "country_id": 54,
+      "destination_type": "i",
+      "airports": [
+        {
+          "id": 320,
+          "name": "Franjo Tuđman Airport",
+          "iata": "ZAG",
+          "lat": null,
+          "long": null
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "name": "Zurique",
+      "state": "Zurique",
+      "state_id": 45,
+      "country": "Suíça",
+      "country_id": 206,
+      "destination_type": "i",
+      "airports": []
+    }
+  ],
+  "links": {
+    "first": "https://back.brtoperadora.com.br/api/v1/cities?page=1",
+    "last": "https://back.brtoperadora.com.br/api/v1/cities?page=1",
+    "prev": null,
+    "next": null
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Anterior",
+        "active": false
+      },
+      {
+        "url": "https://back.brtoperadora.com.br/api/v1/cities?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Próxima &raquo;",
+        "active": false
+      }
+    ],
+    "path": "https://back.brtoperadora.com.br/api/v1/cities",
+    "per_page": 500,
+    "to": 428,
+    "total": 428
+  }
+}

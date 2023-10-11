@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+input[type='checkbox'] {
+  @apply w-4 h-4  bg-gray-100 border-gray-300 rounded focus:ring-0;
+}
+
+h1 {
+  @apply text-3xl md:text-4xl font-bold;
+}
+* {
+  box-sizing: border-box;
+}
+
+.dp__input_icons {
+  display: inline-block;
+  width: 1rem;
+  width: var(--dp-font-size);
+  height: 1rem;
+  height: var(--dp-font-size);
+  stroke-width: 0;
+  font-size: 1rem;
+  font-size: var(--dp-font-size);
+  line-height: calc(1rem * 1.5);
+  line-height: calc(var(--dp-font-size) * 1.5);
+  padding: 6px 2px !important;
+  color: var(--dp-icon-color);
+  box-sizing: content-box;
+}
+
+:focus {
+  outline: none !important;
+}
+
+.btn-secondary {
+  @apply flex font-bold items-center justify-center gap-2 border border-blue-700 text-blue-700 p-2 w-2/3 bg-white rounded-md text-xs h-12 hover:bg-sky-100 hover:text-blue-700 transition-colors duration-300;
+}
+
+.submit-enter {
+  @apply bg-blue-800 border w-full text-center mt-10 border-blue-800 p-4 text-white rounded-md text-xs font-bold hover:bg-sky-100 hover:text-blue-900 transition-colors duration-300;
+}

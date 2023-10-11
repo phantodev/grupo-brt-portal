@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Águas de Lindóia",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Águas de Lindóia, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Campos do Jordão",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Campos do Jordão, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Campos do Jordão",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Campos do Jordão, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "São Paulo Area",
+      "city_name": "Campos do Jordão",
+      "iata": "SAO",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Campos do Jordão, São Paulo, Brasil (SAO)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Guarujá",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Guarujá, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Guarujá",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Guarujá, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Guarulhos",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Guarulhos, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Ilhabela",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Ilhabela, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Ilhabela",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Ilhabela, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de Salvador - Dep. Luís Eduardo Magalhães",
+      "city_name": "Morro de São Paulo",
+      "iata": "SSA",
+      "state_name": "Bahia",
+      "country_name": "Brasil",
+      "city": "Morro de São Paulo, Bahia, Brasil (SSA)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Olímpia",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Olímpia, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Olímpia",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Olímpia, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Ribeirão Preto",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Ribeirão Preto, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Ribeirão Preto",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Ribeirão Preto, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "Santos",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Santos, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "Santos",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "Santos, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "Aeroporto de São Paulo/Congonhas",
+      "city_name": "São Paulo",
+      "iata": "CGH",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "São Paulo, São Paulo, Brasil (CGH)"
+    },
+    {
+      "airport_name": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "city_name": "São Paulo",
+      "iata": "GRU",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "São Paulo, São Paulo, Brasil (GRU)"
+    },
+    {
+      "airport_name": "São Paulo Area",
+      "city_name": "São Paulo",
+      "iata": "SAO",
+      "state_name": "São Paulo",
+      "country_name": "Brasil",
+      "city": "São Paulo, São Paulo, Brasil (SAO)"
+    }
+  ]
+}

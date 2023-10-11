@@ -1,0 +1,361 @@
+{
+  "code": 200,
+  "data": [
+    [
+      {
+        "value": 927.2,
+        "currency": "BRL",
+        "ADT": "1236.27",
+        "netFare": true,
+        "baggageAllowed": false,
+        "totalTaxas": 91.2,
+        "total": 1327.4666666666667,
+        "container": [
+          {
+            "id": 1,
+            "identificadorViagem": "XhkAAB+LCAAAAAAABADtmW1z4jYQgP9KRv14BGTZBuxvBo4cJSSUl+TmOteOYgTnqW0xfumQZuLf3l3ZgM0xl6RNZ/rBGSaWVrvSrnYfiZcn4hBba5A+sWmD9NT/4Y7YSZSKBpl7MbF1QzVGK2KbDDQ9TmziDEiDTP7Y7jWnqk2bYL7wtpLYoDkQceKFEqb49YncglH/vgdWA2gNb2fQmkKLUaZf0s6lri0otdULRmaHkS68jiPPX2F+HnlrvpAJ94ltsU6TwaLTSAbSlSsRO1vfc/lKLXvQvt2KCGQR3/t7Jwu/JlcROE5gzWt4aKQS4CouOn+lPnSdYxAORnE1W2I882oYWsc2zTyMTzikdUwT1fonatYh2k84pFmqfZMGqNemaDMXm0CECWwnGUF3yCOxeNyKIrS+DIm95n6M+1/pHJPRg/jBeqn178fL3hVM0uv7PEYR+t4bYjI+YGt6aM1uUhXnGDVGrgwFdL8lyTa2Wy3oJiJdycuHKGmKNXc9f+uncdOVQfMhavVmi9a13MiARy6PQTvY8vCbxz1XahptbsONiiPwfNzYJ3IjA3Hc4L5ceRu5d2QaibW3w67zZalGMZSfqKEJg+X9IXqDwrX6I88g5RF3ExF5UHwuz5OclySU+ShcqeKIVIH+kvIw8VZ8JfIKmIpYTvjOC2Sxe8tQjU7ECp6gM766WNwunGtVhz6soGa/477yTGPdrkWw5DbQS9KoMI9V9bmeDLkXO66IY4k0QZWLtYhE6Hp8yne5C6NwjT75RS6fG8fpabZcZpkzyPbJzPCRZTRjLMs+HxbGKpkL3x+LxzevAbNj6WUXGUzey2inpWstLNoLVdUZVHxFiDWcZb+BmaGZDM1ONBhDs9nHfka7LVoIqYZCZcbaloVmpxpgRjM4JSpCw9ZgtUOgP8s0CsXjm2L9itFWmWcvM5+DrpgHR88wr8IsMc/YKfNwjsEJpx3VcIhqSi1nHnfwdcwXR26NfI18jfw/QV5/Gfmcc+f4ZqWEfM4y+ltCnjKTnkMeIygjb2jla96yauRr5Gvk/3PkjZeRzzk/f8urjyEQJqOVW559jzyo6bZRvuWZbhxvedYxu1Xk7/7lO3uj/3lSZf7HyN+P6bRG/v+FfEF8nsoMM6SI1833RB4qDyHc89Y9sMvogcy9EEu4QL7LjDK7VoGpjuzOB8uKsH000ywdzU41uniWqFOnJLRsZr4/8uabbnlw9DvkrYUKs3zL62dueVBrV5Gn7RLyuIOvQ/6Vt3xNfE18TfwZ4tsvE59jrogvvo48Jb57/F5OEd+lZ4nHCMrEW6z8Ud7Sa+Jr4mvi35n4c5m7dr58nB3mXcC8UInizbtnlpM/h0VEwOPf818TogXf8b4MHlKoyz+F/1p3/wa7HWV/XhkAAA==",
+            "from": "CWB - CURITIBA",
+            "to": "FOR - FORTALEZA",
+            "provider_id": "Azul",
+            "company": "AD",
+            "companyProvider": "AD",
+            "companyName": "AD",
+            "companyLogo": "/img/logos/iata_AD.png",
+            "negotiatedFareCode": null,
+            "roundTrip": true,
+            "marketingAirline": "AD",
+            "marketingAirlineName": "AD",
+            "totalPriceWithMarkup": 1327.4666666666667,
+            "totalPrice": 1018.4,
+            "currency": "BRL",
+            "baggageAllowed": false,
+            "breakdowns": [
+              {
+                "passenger": {
+                  "type": "ADT",
+                  "quantity": 1,
+                  "ref": 0.75
+                },
+                "baseFare": {
+                  "currency": "BRL",
+                  "value": 927.2,
+                  "valueWithMarkup": 1236.2666666666667
+                },
+                "equivFare": {
+                  "currency": "BRL",
+                  "value": 927.2,
+                  "valueWithMarkup": 1236.2666666666667
+                },
+                "totalFare": {
+                  "currency": "BRL",
+                  "value": 927.2,
+                  "valueWithMarkup": 1236.2666666666667,
+                  "valuetax": 91.2
+                },
+                "taxes": [
+                  {
+                    "amount": 91.2,
+                    "currency": "BRL",
+                    "quantity": 1
+                  }
+                ]
+              }
+            ],
+            "departure": [
+              {
+                "flightNumber": "2605",
+                "stopQuantity": 0,
+                "duration": "01:05",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U1CWKUBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "UU",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "UU",
+                  "bookingCodeValues": "U1CWKUBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "E95",
+                  "date": "31/07/2023",
+                  "time": "17:55",
+                  "locationCode": "CWB",
+                  "locationName": "CWB - CURITIBA"
+                },
+                "arrival": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "E95",
+                  "date": "31/07/2023",
+                  "time": "19:00",
+                  "locationCode": "GRU",
+                  "locationName": "GRU - SAO PAULO"
+                }
+              },
+              {
+                "flightNumber": "4152",
+                "stopQuantity": 0,
+                "duration": "03:00",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U1CWKUBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "UU",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "UU",
+                  "bookingCodeValues": "U1CWKUBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "32Q",
+                  "date": "31/07/2023",
+                  "time": "22:55",
+                  "locationCode": "GRU",
+                  "locationName": "GRU - SAO PAULO"
+                },
+                "arrival": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "32Q",
+                  "date": "01/08/2023",
+                  "time": "01:55",
+                  "locationCode": "REC",
+                  "locationName": "REC - RECIFE"
+                }
+              },
+              {
+                "flightNumber": "2699",
+                "stopQuantity": 0,
+                "duration": "01:20",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U1CWKUBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "UU",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "UU",
+                  "bookingCodeValues": "U1CWKUBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "01/08/2023",
+                  "time": "02:50",
+                  "locationCode": "REC",
+                  "locationName": "REC - RECIFE"
+                },
+                "arrival": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "01/08/2023",
+                  "time": "04:10",
+                  "locationCode": "FOR",
+                  "locationName": "FOR - FORTALEZA"
+                }
+              }
+            ],
+            "return": [
+              {
+                "flightNumber": "2758",
+                "stopQuantity": 0,
+                "duration": "01:25",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U14CXMBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "U",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "U",
+                  "bookingCodeValues": "U14CXMBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "E95",
+                  "date": "08/08/2023",
+                  "time": "22:20",
+                  "locationCode": "FOR",
+                  "locationName": "FOR - FORTALEZA"
+                },
+                "arrival": {
+                  "operatingAirlineCode": "AD",
+                  "marketingAirLine": "imgs/logos/iata_AD",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "E95",
+                  "date": "08/08/2023",
+                  "time": "23:45",
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "locationCode": "REC",
+                  "locationName": "REC - RECIFE"
+                }
+              },
+              {
+                "flightNumber": "4824",
+                "stopQuantity": 0,
+                "duration": "02:55",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U14CXMBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "U",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "U",
+                  "bookingCodeValues": "U14CXMBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "09/08/2023",
+                  "time": "03:50",
+                  "locationCode": "REC",
+                  "locationName": "REC - RECIFE"
+                },
+                "arrival": {
+                  "operatingAirlineCode": "AD",
+                  "marketingAirLine": "imgs/logos/iata_AD",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "09/08/2023",
+                  "time": "06:45",
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "locationCode": "SDU",
+                  "locationName": "SDU - RIO DE JANEIRO"
+                }
+              },
+              {
+                "flightNumber": "4193",
+                "stopQuantity": 0,
+                "duration": "01:25",
+                "cabin": "Econ\u00f4mica",
+                "family": "Azul",
+                "baggage": {
+                  "code": "U14CXMBG",
+                  "description": "Incluso mala de m\u00e3o",
+                  "allowed": false,
+                  "peso": 10,
+                  "unidade": "KG TOTAL",
+                  "quantity": 0
+                },
+                "bookingCode": "U",
+                "rph": 1,
+                "etckt": null,
+                "comment": "",
+                "fareInfo": {
+                  "bookingCodeKeys": "U",
+                  "bookingCodeValues": "U14CXMBG",
+                  "bookingCodeValue": "F+"
+                },
+                "departure": {
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "operatingAirlineCode": "AD",
+                  "marketingAirline": "/img/logos/iata_AD.png",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "09/08/2023",
+                  "time": "08:00",
+                  "locationCode": "SDU",
+                  "locationName": "SDU - RIO DE JANEIRO"
+                },
+                "arrival": {
+                  "operatingAirlineCode": "AD",
+                  "marketingAirLine": "imgs/logos/iata_AD",
+                  "marketingAirlineCode": "AD",
+                  "marketingAirlineName": "Azul",
+                  "equipment": "320",
+                  "date": "09/08/2023",
+                  "time": "09:25",
+                  "operatingAirline": "/img/logos/iata_AD.png",
+                  "locationCode": "CWB",
+                  "locationName": "CWB - CURITIBA"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}
